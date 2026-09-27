@@ -1,6 +1,6 @@
 # Security Policy
 
-DeepInterview is a voice-first AI mock-interview platform. It handles candidate
+AI Interview Coach is a voice-first AI mock-interview platform. It handles candidate
 CVs, job descriptions, interview transcripts, and recordings — so we take
 security and privacy seriously and welcome responsible disclosure.
 
@@ -10,7 +10,7 @@ security and privacy seriously and welcome responsible disclosure.
 pull requests.** A public report tells attackers about the problem before a fix
 exists.
 
-Instead, email **security@deepinterview.dev** with:
+
 
 - a description of the issue and the impact you believe it has;
 - the affected component (`apps/web`, `apps/agent`, `services/lightrag`, `cli`,
@@ -30,7 +30,7 @@ initial (non-sensitive) message to the same address.
 
 ## Supported versions
 
-DeepInterview is **pre-v0.1 and under active development** — there is no
+AI Interview Coach is **pre-v0.1 and under active development** — there is no
 generally available release line yet. During this phase, security fixes land on
 the default branch (`main`) only; there are no maintained back-ports. Always run
 the latest `main` (or the latest tagged pre-release, once tags exist) to receive
@@ -45,7 +45,7 @@ This table will be replaced with a real version matrix once we cut `v0.1`.
 
 ## Secrets and configuration
 
-DeepInterview is **secrets-via-env-vars only**. To keep credentials out of the
+AI Interview Coach is **secrets-via-env-vars only**. To keep credentials out of the
 codebase and out of git history:
 
 - **Never commit `.env`, `.env.local`, real keys, tokens, or recordings.** Only

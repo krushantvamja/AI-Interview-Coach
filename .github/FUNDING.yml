@@ -1,15 +1,16 @@
-# Funding sources for DeepInterview.
+# Funding sources for AI Interview Coach.
 #
-# DeepInterview is Apache-2.0 open-source software. Sponsorships fund the voice
-# infrastructure (LiveKit / STT / TTS / LLM) that makes free mock interviews
-# possible. Uncomment and fill in a line once the corresponding account exists —
-# leaving placeholder usernames active renders broken "Sponsor" buttons.
+# AI Interview Coach is Apache-2.0 open-source software. Sponsorships can fund
+# the voice infrastructure (LiveKit / STT / TTS / LLM) that makes free mock
+# interviews possible. Uncomment and fill in a line once the corresponding
+# account exists — leaving placeholder usernames active renders broken
+# "Sponsor" buttons.
 #
 # Docs: https://docs.github.com/get-started/quickstart/customizing-your-repository
 
-# github: [deepinterview]                 # GitHub Sponsors username(s)
-# open_collective: deepinterview          # Open Collective slug
-# patreon: deepinterview                  # Patreon username
-# ko_fi: deepinterview                    # Ko-fi username
-# liberapay: deepinterview                # Liberapay username
-# custom: ["https://deepinterview.dev/sponsor"]  # Any other funding URL(s)
+# github: [YOUR_GITHUB_SPONSORS_USERNAME]
+# open_collective: YOUR_OPEN_COLLECTIVE_SLUG
+# patreon: YOUR_PATREON_USERNAME
+# ko_fi: YOUR_KO_FI_USERNAME
+# liberapay: YOUR_LIBERAPAY_USERNAME
+# custom: ["https://your-domain.example/sponsor"]

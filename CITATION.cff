@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-message: "If you use DeepInterview, please cite it as below."
-title: DeepInterview
+message: "If you use AI Interview Coach, please cite it as below."
+title: AI Interview Coach
 abstract: >-
-  Open-source (Apache-2.0), voice-first AI mock-interview platform. It reads a CV and
+  Open-source (Apache-2.0), voice-first AI interview coaching platform. It reads a CV and
   job description, researches the target company, runs an adaptive real-time voice
   interview with a stylized video avatar, scores it, and coaches weak areas.
   English-first, multilingual.

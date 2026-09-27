@@ -2,7 +2,7 @@
 
 All notable changes, newest first. The README's [News](README.md#news) section
 carries the latest handful of entries; everything lands here permanently.
-Tagged releases: [GitHub Releases](https://github.com/ngoanpv/DeepInterview/releases).
+Tagged releases:  GitHub Releases will be available in the new AI Interview Coach repository.
 
 ## v0.3.0 — 2026-08-02
 

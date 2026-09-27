@@ -1,4 +1,5 @@
 <!-- Skill-pack PR template. Use it via:
+
      https://github.com/ngoanpv/DeepInterview/compare/main...YOUR_BRANCH?template=skill_pack.md -->
 
 ## New skill pack(s)
